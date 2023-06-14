@@ -1,6 +1,6 @@
-// Copyright (c) 2022 Brennan lee All rights reserved
+// Copyright (c) 2022 Austin scavone All rights reserved
 //
-// Created by: Brennan Lee
+// Created by: Austin scavone
 // Created on: dec 2022
 // This file contains the JS functions for index.html
 
